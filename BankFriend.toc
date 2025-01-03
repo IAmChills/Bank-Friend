@@ -1,0 +1,7 @@
+## Interface: 11505
+## Title: Bank Friend
+## Notes: Enable using items while at the bank/vendor by holding |cff22eeb4shift| and double right clicking.
+## Version: 1.0
+## Author: Chills
+
+BankFriend.lua
