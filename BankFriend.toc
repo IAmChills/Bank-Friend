@@ -1,4 +1,4 @@
-## Interface: 11505
+## Interface: 11506
 ## Title: Bank Friend
 ## Notes: Enable using items while at the bank/vendor by holding |cff22eeb4shift| and double right clicking.
 ## Version: 1.0
